@@ -10,15 +10,15 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/yasiyaofc1/FORZEN-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94760018802'
-global.devs = '94760018802';
+global.sudo = process.env.SUDO || '94702929244'
+global.devs = '94702929244';
 global.website = 'https://github.com/yasiyaofc1/FORZEN-MD' //wa.me/+94760018802
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/0b5a7839e8ee21874921e.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'FORZEN MD' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'YASIYA OFC' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? '𝚉𝙾𝚁𝙾 MD' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𝙳𝙸𝙻𝙰 OFC' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'YASIYA OFC' : process.env.PACK_INFO.split(";")[0],
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? '𝙳𝙸𝙻𝙰 OFC' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'FORZEN MD' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
